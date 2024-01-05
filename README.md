@@ -34,7 +34,7 @@ scrape_configs:
       - targets: ["your-sever-url/metrics"]
 ```
 
-### 2. Build and run docker to image to start prometheus server
+### 3. Build and run docker to image to start prometheus server
 
 Run the commands below in the root of the project to build and run the prometheus server
 
