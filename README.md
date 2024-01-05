@@ -45,7 +45,7 @@ docker run -p 9090:9090 my-prometheus-image
 
 ```
 
-## Additional Information
+## For Additional Information checkout the docs
 
 - [Prometheus documentation](https://prometheus.io/docs/introduction/overview/)
 - [Docker documentation](https://docs.docker.com/)
